@@ -1,0 +1,4 @@
+Neos:
+  Fusion:
+    defaultContext:
+      'Onedrop.Base64': 'Onedrop\Base64\Eel\Helper\Base64Helper'

@@ -1,0 +1,20 @@
+{
+  "description": "EEL helper to encode and decode strings to base64",
+  "type": "neos-package",
+  "name": "onedrop/base64",
+  "require": {
+    "php": "7.0",
+    "neos/flow": "~4.0 || ~5.0"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-0": {
+      "Onedrop\\Base64": "Classes/"
+    }
+  },
+  "extra": {
+    "neos": {
+      "package-key": "Onedrop.Base64"
+    }
+  }
+}
