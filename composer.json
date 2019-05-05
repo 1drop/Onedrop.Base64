@@ -3,7 +3,6 @@
   "type": "neos-package",
   "name": "onedrop/base64",
   "require": {
-    "php": "7.0",
     "neos/flow": "~4.0 || ~5.0"
   },
   "license": "MIT",
