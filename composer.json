@@ -7,8 +7,8 @@
   },
   "license": "MIT",
   "autoload": {
-    "psr-0": {
-      "Onedrop\\Base64": "Classes/"
+    "psr-4": {
+      "Onedrop\\Base64\\": "Classes"
     }
   },
   "extra": {
